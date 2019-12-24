@@ -1054,4 +1054,4 @@ if (LLVM_INCLUDE_BENCHMARKS)
   add_subdirectory(benchmarks)
 
 endif()
-  add_subdirectory(/home/fivosts/Desktop/PhD/Code/llvm_passes /home/fivosts/Desktop/PhD/Code/llvm_passes/output)
+  add_subdirectory(/home/fivosts/Desktop/PhD/Code/llvm_passes /home/fivosts/Desktop/PhD/Code/llvm_passes/laptop_bin)
